@@ -1,7 +1,6 @@
 # Hi, I'm Vrushali Joshi 👋
 
-### Data Analyst | Founder at TechnoCave
-
+### Data Analyst
 I am passionate about using data to solve business problems and
 create actionable insights.
 
